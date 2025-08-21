@@ -1,18 +1,20 @@
-> ### ⚠ 本项目不提供Release安装包，请自行编译后运行测试
+> ### ⚠ 本项目不提供Release安装包，请自行编译后运行测试 
 
 
-<p align   对齐="center"   “中心”>
-    <img width="128" src="/assets/logo.png" alt="Simple Live logo">
+<p align   对齐   对齐="center"   “中心”   “中心”>
+    <img width   宽度="128" src="/assets/logo.png"   “/资产/ logo.png” alt="Simple Live logo">
 </p>
-<h2 align   对齐="center"   “中心”>Simple Live</h2>
+<h2 align   对齐   对齐="center"   “中心”   “中心”>Simple Live</h2>
 
-<p align   对齐="center"   “中心”>
+<p align   对齐   对齐="center"   “中心”   “中心”>
 简简单单的看直播
 </p>
 
-![浅色模式](/assets/screenshot_light.jpg)
+![浅色模式](/assets/screenshot_light.jpg/assets/screenshot_light.jpg 的中文翻译为：/assets/screenshot_light.jpg（由于这是一个文件)
 
-![深色模式](/assets/screenshot_dark.jpg)
+![深色模式](/assets/screenshot_dark.jpg/assets/screenshot_dark.jpg
+
+（由于该内容仅为文件路径，没有实际的文本内容，)
 
 ## 支持直播平台：
 
