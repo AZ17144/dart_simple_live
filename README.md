@@ -1,12 +1,12 @@
-> ### ⚠ 本项目不提供Release安装包，请自行编译后运行测试。
+> ### ⚠ 本项目不提供Release安装包，请自行编译后运行测试
 
 
-<p align="center">
+<p align   对齐="center"   “中心”>
     <img width="128" src="/assets/logo.png" alt="Simple Live logo">
 </p>
-<h2 align="center">Simple Live</h2>
+<h2 align   对齐="center"   “中心”>Simple Live</h2>
 
-<p align="center">
+<p align   对齐="center"   “中心”>
 简简单单的看直播
 </p>
 
@@ -28,10 +28,10 @@
 
 - [x] Android
 - [x] iOS
-- [x] Windows `BETA`
-- [x] MacOS `BETA`
-- [x] Linux `BETA`
-- [x] Android TV `BETA`
+- [x] Windows `BETA   β`
+- [x] MacOS `BETA   β`
+- [x] Linux `BETA   β`
+- [x] Android TV `BETA   β`
 
 ## 项目结构
 
